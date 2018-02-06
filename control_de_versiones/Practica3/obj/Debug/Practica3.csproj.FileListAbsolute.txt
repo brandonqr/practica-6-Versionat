@@ -1,0 +1,12 @@
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\DAW\Desktop\DAW2\Programacio\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\obj\Debug\Practica3.exe
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\bin\Debug\Practica3.exe
+C:\Users\DAW\Desktop\DAW2\Programacio\UF4-PPO-PT3\Practica3\bin\Debug\Practica3.pdb

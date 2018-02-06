@@ -1,0 +1,44 @@
+{
+  "Pràctica 6 Versionat y documentació de codi": {
+    "Introducción": {
+      "¿Qué es GIT?": "Es un software de control de versiones, fue pensado para la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran numero de archivos de c´dodigo fuente. ",
+      "Creador": "Linus Torvalds.",
+      "Finalidad de GIT": "Gestionar diversos cambios que se realizan sobre los elementos de algun producto o alguna configuracion del mismo."
+    },
+    "Instalacion": {
+      "Título": "Instalar Git",
+      "Descripción": [ "Descargar el archivo exe del sitio https://gitforwindows.org/ y ejecutarlo, una vez instalado tendrás tanto la versión de linea de comnados como la interfaz gráfica. " ],
+      "imgs": [
+        "./img/git_instalacion_1.PNG"
+      ]
+    },
+    "Preparar carpeta para Git": {
+      "Titulo": "Iniciar repositorio Git",
+      "Descripción": [
+        "Crear un carpeta donde se almacenará el proyecto en local.",
+        "Crear el proyecto en visual Studio y guardarlo en ésa carpeta.",
+        "Para iniciar un repositorio git tienes que utilizar el comando 'git init' en la raiz del proyecto",
+        "luego ejecutar el comando 'git add .', el punto( . ) es para agregar todos los archivos del proyecto",
+        "el comando 'git status', es para ver si tus ficheros añadidos son nuevos o no",
+        "despues de verficar con git status hacemos un commit con 'git commit -m \"primer commit\" ",
+        "el comando 'git push, que sirve para subir los archivos al repositorio online (Github, bitbucked, etc)",
+        "si al ejecutar el comando aparece un erro 'No configured push destination', teneis que ir a crear un repositorio en vuestra cuenta de github u otros",
+        "luego ejecutar el siguiente comando 'git remote add origin ' + la url del repositorio nuevo creado, en mi caso (git remote add origin https://github.com/brandonqr/practica-6-Versionat.git)",
+        "y finalmente volver a ejecutar 'git push -u origin master', teneis que inicar sesion en vuestro servicio, en mi caso github."
+      ],
+      "imgs": [
+        "./img/preparar_carpeta para_Git_1.PNG",
+        "./img/preparar_carpeta para_Git_2.PNG",
+        "./img/preparar_carpeta para_Git_3.PNG",
+        "./img/preparar_carpeta para_Git_4.PNG",
+        "./img/preparar_carpeta para_Git_5.PNG",
+        "./img/preparar_carpeta para_Git_6.PNG"
+      ]
+    },
+    "Empezando la práctica": {
+      "Titulo": 
+    }
+
+
+  }
+}
